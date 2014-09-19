@@ -1,0 +1,7 @@
+*.tex~
+*.fdb_latexmk
+*.aux
+*.log
+*.lock
+.idea
+
